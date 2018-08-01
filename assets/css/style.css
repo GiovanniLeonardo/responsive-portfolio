@@ -1,7 +1,5 @@
 *
-/** enable mobile device compatibility */
-@media screen and (max-width: 481px){
-}
+
 
 {
     box-sizing: border-box;
@@ -228,3 +226,6 @@ input[type=submit] {
     cursor: pointer;
 }
 
+/** enable mobile device compatibility */
+@media screen and (max-width: 481px){
+}
